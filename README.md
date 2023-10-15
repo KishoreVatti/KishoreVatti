@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KishoreVatti
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Web Development and Backend Programming
 - 🌱 I’m currently learning DotNet
+- you can find my portfolio in my profile
 - 📫 How to reach me - kishorevatti334@gmail.com
 
 <!---
